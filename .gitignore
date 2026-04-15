@@ -1,0 +1,18 @@
+node_modules/
+.next/
+out/
+build/
+.env
+.env.local
+.env*.local
+.DS_Store
+*.tsbuildinfo
+next-env.d.ts
+.vercel
+
+# Inherited from parent multi-project repo — not part of DWYH
+/Library/
+
+# Local JSON data store (treat as runtime state, not source)
+/data/
+
